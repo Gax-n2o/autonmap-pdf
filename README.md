@@ -65,7 +65,7 @@
 ### Método 1 (recomendado) – Instalación automática
 ```
 git clone https://github.com/Gax-n2o/autonmap-pdf.git
-cd autonmap
+cd autonmap-pdf
 chmod +x install.sh
 ./install.sh
 ```
