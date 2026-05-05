@@ -62,18 +62,12 @@
 
 ## 🚀 Instalación
 
-### Método 1 (recomendado) – Instalación automática
+### Método (recomendado) – Instalación automática
 ```
 git clone https://github.com/Gax-n2o/autonmap-pdf.git
 cd autonmap-pdf
 chmod +x install.sh
 ./install.sh
-```
-
-Método 2 – Script remoto (directo)
-
-```bash
-curl -sL https://raw.githubusercontent.com/Gax-n2o/autonmap-pdf/main/install.sh | bash
 ```
 
 El instalador se encargará de:
