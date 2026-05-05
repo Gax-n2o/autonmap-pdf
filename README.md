@@ -1,4 +1,6 @@
+````markdown
 <div align="center">
+```
  █████╗ ██╗   ██╗████████╗ ██████╗ ███╗   ██╗███╗   ███╗ █████╗ ██████╗ 
 ██╔══██╗██║   ██║╚══██╔══╝██╔═══██╗████╗  ██║████╗ ████║██╔══██╗██╔══██╗
 ███████║██║   ██║   ██║   ██║   ██║██╔██╗ ██║██╔████╔██║███████║██████╔╝
@@ -7,7 +9,6 @@
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
 
 
-```text
 **⚡ The Silent Port Hunter ⚡**
 
 [![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?logo=gnu-bash)](https://www.gnu.org/software/bash/)
@@ -16,7 +17,7 @@
 [![Version](https://img.shields.io/badge/Version-2.1.0-blue)]()
 
 </div>
-```
+
 ---
 
 ## 📖 Descripción
