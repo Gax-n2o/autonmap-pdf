@@ -63,18 +63,19 @@
 ## 🚀 Instalación
 
 ### Método 1 (recomendado) – Instalación automática
-
-git clone https://github.com/tu-usuario/autonmap.git
+```
+git clone https://github.com/Gax-n2o/nmap-pdf.git
 cd autonmap
 chmod +x install.sh
 ./install.sh
-````
+```
 
 Método 2 – Script remoto (directo)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/tu-usuario/autonmap/main/install.sh | bash
-````
+curl -sL https://raw.githubusercontent.com/Gax-n2o/nmap-pdf/main/install.sh | bash
+```
+
 El instalador se encargará de:
 
 Verificar e instalar las dependencias del sistema (nmap, python3, etc.)
