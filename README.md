@@ -161,6 +161,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 N2O – Desarrollo principal.
 
-Inspirado en el flujo de trabajo de S4vitar.
-
 Basado en herramientas como nmap, WhatWeb, netexec y ReportLab.
